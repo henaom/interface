@@ -1,4 +1,4 @@
-import paho.MH.client as paho
+import paho.mqtt.client as paho
 import time
 import streamlit as st
 import json
